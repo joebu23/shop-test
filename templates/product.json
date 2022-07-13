@@ -3,9 +3,13 @@
     "sections": {
         "main": {
             "type": "main-product"
+        },
+        "recommendations": {
+            "type": "product-recommendations"
         }
     },
     "order": [
-        "main"
+        "main",
+        "recommendations"
     ]
 }
